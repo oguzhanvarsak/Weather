@@ -17,7 +17,7 @@ Mobilion İş Başvurusu için oluşturulan deneme projesi.
 
 :white_check_mark: Hava durumu verileri, https://openweathermap.org/forecast5 Üzeriden (5 günlük 3’er saatlik veriler) kullanıcının bulunduğu konum bilgisine göre çekilecektir.
 
-:x: Projenin MVC, MVP, MVVP, gibi mimari tasarım kalıplarından birisine uygun yazılması. (Tercihen MVVM mimarisi) 
+:x: Projenin MVC, MVP, MVVP, gibi mimari tasarım kalıplarından birisine uygun yazılması. (Tercihen MVVM mimarisi) (Yaptığım deneme : [Weather MVVM](https://github.com/oguzhanvarsak/Weather-MVVM))
 
 
 ### Diğer Hususlar
