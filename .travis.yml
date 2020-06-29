@@ -1,0 +1,7 @@
+os: osx
+language: swift
+osx_image: xcode12
+xcode_project: Weather App.xcodeproj
+xcode_scheme: Weather App
+xcode_destination: platform=iOS Simulator,OS=13.5,name=iPhone 11 Pro Max
+script: CODE_SIGNING_REQUIRED=NO
