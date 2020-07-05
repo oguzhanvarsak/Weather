@@ -1,6 +1,6 @@
 # Weather
 
-[![Build Status](https://travis-ci.com/oguzhanvarsak/Weather.svg?branch=master)](https://travis-ci.com/oguzhanvarsak/Weather)
+[![Build Status](https://travis-ci.com/oguzhanvarsak/Weather.svg?branch=master)](https://travis-ci.com/oguzhanvarsak/Weather) ![Swift](https://github.com/oguzhanvarsak/Weather/workflows/Swift/badge.svg)
 
 Mobilion İş Başvurusu için oluşturulan deneme projesi.
 
