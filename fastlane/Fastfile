@@ -1,0 +1,8 @@
+update_fastlane
+default_platform(:ios)
+platform :ios do
+ desc “Testing App”
+ lane :tests do
+ run_tests(project: “Weather App.xcodeproj”,devices: [“iPhone 11”, “iPhone 8”],scheme: “Weather App”)
+end
+end
