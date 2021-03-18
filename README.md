@@ -2,7 +2,6 @@
 
 [![Build Status](https://travis-ci.com/oguzhanvarsak/Weather.svg?branch=master)](https://travis-ci.com/oguzhanvarsak/Weather)
 
-Mobilion İş Başvurusu için oluşturulan deneme projesi.
 
 ### Beklenen Özellikler ve Kriterler
 :white_check_mark: App tek ekran üzerine kurgulanacaktır. (+ Splash Ekranı -> Konum izni ve konum bilgisini alabilmek için)
