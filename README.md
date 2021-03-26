@@ -7,7 +7,7 @@
 
 ### Description
 ------
-Simple weather forecast application for iOS
+Weather forecast application for iOS with OpenWeatherMap API
 
 
 Light Mode | Dark Mode
