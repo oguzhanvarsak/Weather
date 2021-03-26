@@ -6,6 +6,7 @@
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/oguzhanvarsak/Weather) [![Build Status](https://travis-ci.com/oguzhanvarsak/Weather.svg)](https://travis-ci.com/oguzhanvarsak/Weather) ![GitHub top language](https://img.shields.io/github/languages/top/oguzhanvarsak/Weather) ![Lines of code](https://img.shields.io/tokei/lines/github/oguzhanvarsak/Weather)
 
 ### Description
+------
 Simple weather forecast application for iOS
 
 
